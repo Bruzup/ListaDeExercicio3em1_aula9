@@ -13,7 +13,7 @@ public class Exercicio5 {
 
 
         do{
-            System.out.println("* Agora tem " + QtdPessoas + " pessoas");
+            System.out.println("* Neste momento temos " + QtdPessoas + " pessoas");
             QtdPessoas--;
             int TempoDeEspera = QtdPessoas * 5;
             System.out.println("O tempo estimado de espera é " + TempoDeEspera + " minutos...");
